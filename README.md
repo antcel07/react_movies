@@ -1,3 +1,7 @@
+
+![Screenshot_2](https://github.com/antcel07/react_movies/assets/93091784/0b8e74ff-346f-4e99-8fa5-fef41452925b)
+![Screenshot_3](https://github.com/antcel07/react_movies/assets/93091784/7ca57bdf-40cc-4e03-9218-1309dc06da32)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
